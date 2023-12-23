@@ -20,7 +20,7 @@ Este repositório é uma demonstração dos meus projetos acadêmicos em Ciênci
 
 ## Projetos
 
-1. [Mineração de Dados no Futebol com K-Means](./projeto1_mineracao_dados_futebol)
+1. [Mineração de Dados no Futebol com K-Means](./mineracao-dados-futebol)
 2. [Algoritmos e Big Data com Apache Mahout](./projeto2_algoritmos_bigdata_mahout)
 3. [Desenvolvimento de Modelo para Campanha de Marketing](./projeto3_modelo_campanha_marketing)
 
