@@ -1,0 +1,3 @@
+### Projeto 2: Algoritmos e Big Data com Apache Mahout
+
+Neste projeto, realizei experimentos com o algoritmo Kmeans utilizando uma das pastas de texto da base Reuters e analisei os clusters gerados...
