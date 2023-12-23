@@ -22,7 +22,7 @@ Este repositório é uma demonstração dos meus projetos acadêmicos em Ciênci
 
 1. [Mineração de Dados no Futebol com K-Means](./futebol/mineracao-dados-futebol/)
 2. [Análise de Texto com K-Means e Big Data com Apache Mahout](./marketing-branding/analise-texto-kmeans-apache-mahout/)
-3. [Modelo Preditivo para Campanha de Marketing](./marketing-branding/modelo-preditivo/)
+3. [Modelo Preditivo para Campanha de Marketing](./marketing-branding/modelo-preditivo-cadastro-cupons/)
 
 ### Projeto 1: Mineração de Dados no Futebol com K-Means
 
