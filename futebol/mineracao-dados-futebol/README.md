@@ -1,0 +1,3 @@
+### Projeto 1: Mineração de Dados no Futebol com K-Means
+
+Este projeto analisa o desempenho da equipe de futebol masculina do Flamengo nas últimas 4 temporadas do Campeonato Brasileiro da Série A...
