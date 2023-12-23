@@ -1,0 +1,3 @@
+### Projeto 3: Desenvolvimento de Modelo Preditivo para Campanha de Marketing
+
+Desenvolvi um modelo preditivo para prever a quantidade diária de produtos cadastrados em uma campanha de marketing da empresa Bebidas Ltda...
