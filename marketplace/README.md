@@ -4,7 +4,7 @@
 ### 2. **Equipe de Marketing:**
    - *Participação DI: * Data Science pode ajudar a otimizar campanhas de marketing identificando segmentos de clientes mais eficazes, sugerindo estratégias de precificação dinâmica, e analisando o impacto das campanhas.
 
-### 3. **Equipe de Operações e Logística:**
+<!-- ### 3. **Equipe de Operações e Logística:**
    - *Participação DI: * Analytics pode ser usado para otimizar cadeias de suprimentos, prever demandas sazonais, melhorar a gestão de estoque e otimizar a eficiência logística.
 
 ### 4. **Equipe de Atendimento ao Cliente:**
@@ -26,4 +26,4 @@
    - *Participação DI: * Apresentar insights estratégicos, previsões de mercado e relatórios que auxiliem na tomada de decisões estratégicas de alto nível.
 
 ### 10. **Equipe de Segurança da Informação:**
-    - *Participação DI: * Garantir a segurança dos dados, implementar práticas de proteção contra ameaças cibernéticas e colaborar na conformidade com normas de segurança.
+    - *Participação DI: * Garantir a segurança dos dados, implementar práticas de proteção contra ameaças cibernéticas e colaborar na conformidade com normas de segurança. -->
