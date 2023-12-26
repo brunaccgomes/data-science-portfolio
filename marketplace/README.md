@@ -1,8 +1,8 @@
 ### 1. **Equipe de Produto:**
-   - **Participação DI:** A equipe de Data Science pode fornecer insights sobre o comportamento do usuário, análise de produtos mais vendidos e recomendações personalizadas para melhorar a experiência do usuário no site.
+   - **Participação:** A equipe de Data Science pode fornecer insights sobre o comportamento do usuário, análise de produtos mais vendidos e recomendações personalizadas para melhorar a experiência do usuário no site.
 
 ### 2. **Equipe de Marketing:**
-   - **Participação DI:** Data Science pode ajudar a otimizar campanhas de marketing identificando segmentos de clientes mais eficazes, sugerindo estratégias de precificação dinâmica, e analisando o impacto das campanhas.
+   - **Participação:** Data Science pode ajudar a otimizar campanhas de marketing identificando segmentos de clientes mais eficazes, sugerindo estratégias de precificação dinâmica, e analisando o impacto das campanhas.
 
 <!-- ### 3. **Equipe de Operações e Logística:**
    - *Participação DI: * Analytics pode ser usado para otimizar cadeias de suprimentos, prever demandas sazonais, melhorar a gestão de estoque e otimizar a eficiência logística.
