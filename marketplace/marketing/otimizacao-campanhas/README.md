@@ -1,4 +1,4 @@
-## Projeto de Data Science e Analytics - Colaboração com Equipe de Marketing
+## Projeto de Data Science e Analytics - Modelo Preditivo para Otimização de Campanhas
 
 ### 1. Objetivo do Projeto
 O objetivo deste projeto é colaborar com a equipe de marketing para otimizar campanhas por meio de análise preditiva. Neste caso iremos gerar modelo para prever a taxa de conversão com base na taxa de cliques. 
