@@ -20,7 +20,6 @@ Colaborar com a equipe de produto para fornecer insights sobre o comportamento d
 ### 5. Modelagem ML
 - Tarefa: Identificar produtos mais propensos a serem comprados. **(PRA QUÊ)**
 - Algoritmo Escolhido: Algoritmo de Regressão Logística para classificação.
-- **Link:** Exemplo de Código (Python):
 
 ### 6. Avaliação e Validação do Modelo
 - Método de Avaliação: Acurácia do Modelo. **(JUSTIFICAR)**
