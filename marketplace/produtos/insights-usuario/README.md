@@ -1,10 +1,10 @@
 ## Projeto de Data Science e Analytics - Produto
 
 ### 1. Objetivo do Projeto
-Colaborar com a equipe de produto para fornecer insights sobre o comportamento do usuário e análise de produtos mais vendidos.
+Colaborar com a equipe de produto para fornecer insights sobre o comportamento do usuário e análise de produtos mais vendidos, utilizando técnicas de Data Science e Analytics.
 
 ### 2. Coleta de Dados
-- Fonte de Dados: Dados simulados de transações em um marketplace.
+- Fonte de Dados: Dados simulados de transações de usuários.
 - Formato: CSV.
 - **Link:** Código (Python - Google Colab):
 
@@ -16,15 +16,15 @@ Colaborar com a equipe de produto para fornecer insights sobre o comportamento d
 
 ### 4. Análise Exploratória de Dados (EDA)
 - Visualização de Padrões:
-  - Identificar correlações entre taxas de clique e conversão.
+  - Identificar padrões de compra por categoria.
   - Visualizar distribuições e tendências.
 - **Link:** Código (Python):
 
 ### 5. Modelagem ML
-- Tarefa: Prever a taxa de conversão com base na taxa de cliques. **(PRA QUÊ)**
-- Algoritmo Escolhido: Regressão Linear.
+- Tarefa: Identificar produtos mais propensos a serem comprados. **(PRA QUÊ)**
+- Algoritmo Escolhido: Algoritmo de Regressão Logística para classificação.
 - **Link:** Exemplo de Código (Python):
 
 ### 6. Avaliação e Validação do Modelo
-- Método de Avaliação: R-squared Score.
+- Método de Avaliação: Acurácia do Modelo.
 **Link:** Exemplo de Código (Python):
