@@ -1,7 +1,7 @@
-## Projeto de Data Science e Analytics - Produto
+## Projeto de Data Science e Analytics - Algoritmo Preditivo para Classificação de Comportamento do Usuário
 
 ### 1. Objetivo do Projeto
-Colaborar com a equipe de produto para fornecer insights sobre o comportamento do usuário e análise de produtos mais vendidos, utilizando técnicas de Data Science e Analytics. Nesse caso será utilizado aprendizado de máquina supervisionado para classificação.
+Colaborar com a equipe de produto para fornecer insights sobre o comportamento do usuário e análise de produtos mais vendidos, utilizando técnicas de Data Science e Analytics. Nesse caso será utilizado aprendizado de máquina supervisionado para classificação, com intuito de identificar produtos mais propensos a serem comprados.
 
 ### 2. Coleta de Dados
 - Fonte de Dados: Dados simulados de transações de usuários.
