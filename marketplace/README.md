@@ -4,6 +4,9 @@
 ### 2. **Equipe de Marketing:**
    - **Participação:** Data Science pode ajudar a otimizar campanhas de marketing identificando segmentos de clientes mais eficazes, sugerindo estratégias de precificação dinâmica, e analisando o impacto das campanhas.
 
+### 3. **Equipe de Desenvolvimento e Tecnologia:**
+   - **Participação:** Data Science irá colaborar com a equipe de desenvolvimento e tecnologia para implementar soluções analíticas que otimizem operações e melhorem a experiência do usuário.
+
 <!-- ### 3. **Equipe de Operações e Logística:**
    - *Participação DI: * Analytics pode ser usado para otimizar cadeias de suprimentos, prever demandas sazonais, melhorar a gestão de estoque e otimizar a eficiência logística.
 
