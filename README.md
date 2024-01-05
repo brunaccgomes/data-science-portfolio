@@ -2,13 +2,13 @@
 # Hello!!
 
 Bem-vindo! 
-Aqui é possível analisar minhas habilidades consultando meus experimentos pessoais (link), meus projetos acadêmicos (link) e, então você pode verificar a forma como abstraí e pratiquei algumas habilidades pertinentes à ciência de dados. 
-<!--Sou a Bruna, uma profissional de TI com mais de 10 anos de experiência em análise de sistemas e atualmente buscando oportunidades na área de Ciência de Dados. -->
+Aqui é possível analisar minhas habilidades consultando meus [experimentos pessoais](./experimentos/README.md/), meus [projetos acadêmicos](./academicos/README.md/) e, então você pode verificar a forma como abstraio e pratico algumas habilidades pertinentes à ciência de dados. 
+
 Profissionalmente busco desafios que me forneçam mais “liberdade” analítica e científica na condução da implantação de soluções inteligentes, justificando minha decisão em mudar de carreira, de analista de sistemas para cientista de dados.
 
-**Meu objetivo é melhorar e agregar habilidades. Minha prioridade é o desenvolvimento técnico!**
+**Meu objetivo é melhorar e agregar habilidades. Minha prioridade é o desenvolvimento técnico!** 
 
-Preciso desenrolar minha abstração de negócio como cientista de dados e desenvolver o feeling da aplicação técnica, de forma a transformar e engatar minha carreira profissional. 
+Busco intensificar minha abstração de negócio como cientista de dados e aprimorar o feeling da aplicação técnica, de forma a transformar e engatar minha carreira profissional. 
 
 <!-- ## Habilidades Demonstradas
 
