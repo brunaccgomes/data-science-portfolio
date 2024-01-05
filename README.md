@@ -1,15 +1,16 @@
-# data-science-portfolio
-Projetos e Experimentos em Data Science
+#### Portfólio de Ciência de Dados - Bruna Gomes
+# Hello!!
 
-# Bruna da Cunha Christiano Gomes - Portfólio de Ciência de Dados
+Bem-vindo ao meu portfólio! 
+É possível analisar minhas habilidades consultando meus experimentos pessoais (link), meus projetos acadêmicos (link) e, então você pode verificar a forma como abstraí e pratiquei algumas habilidades pertinentes à ciência de dados. 
+<!--Sou a Bruna, uma profissional de TI com mais de 10 anos de experiência em análise de sistemas e atualmente buscando oportunidades na área de Ciência de Dados. -->
+Profissionalmente busco desafios que me forneçam mais “liberdade” analítica e científica na condução da implantação de soluções inteligentes, justificando minha decisão em mudar de carreira, de analista de sistemas para cientista de dados.
 
-Bem-vindo ao meu portfólio! Sou a Bruna, uma profissional de TI com mais de 10 anos de experiência em análise de sistemas e atualmente buscando oportunidades na área de Ciência de Dados.
+**Meu objetivo é melhorar e agregar habilidades. Minha prioridade é o desenvolvimento técnico!**
 
-## Objetivo
+Preciso desenrolar minha abstração de negócio como cientista de dados e desenvolver o feeling da aplicação técnica, de forma a transformar e engatar minha carreira profissional. 
 
-Este repositório é uma demonstração dos meus projetos acadêmicos em Ciência de Dados, destacando minhas habilidades técnicas e o potencial para contribuir em projetos reais.
-
-## Habilidades Demonstradas
+<!-- ## Habilidades Demonstradas
 
 - Análise de Dados
 - Mineração de Dados
@@ -17,14 +18,18 @@ Este repositório é uma demonstração dos meus projetos acadêmicos em Ciênci
 - Manipulação de Dados com SQL
 - Desenvolvimento de Modelos Preditivos
 - Automatização de ETL com comandos .BAT
+-->
 
-## Projetos
+### [Experimentos](./experimentos/README.md/)
+1. [Machine Learning para predição do peso de recém-nascidos no momento do parto.](.experimentos/ml-preditivo-rn-peso/)
+
+### [Projetos Acadêmicos](./academicos/README.md/)
 
 1. [Mineração de Dados no Futebol com K-Means](./futebol/mineracao-dados-futebol/)
 2. [Análise de Texto com K-Means e Big Data com Apache Mahout](./marketing-branding/analise-texto-kmeans-apache-mahout/)
 3. [Modelo Preditivo para Campanha de Marketing](./marketing-branding/modelo-preditivo-cadastro-cupons/)
 
-### Projeto 1: Mineração de Dados no Futebol com K-Means
+<!-- ### Projeto 1: Mineração de Dados no Futebol com K-Means
 
 Este projeto analisa o desempenho da equipe de futebol masculina do Flamengo nas últimas 4 temporadas do Campeonato Brasileiro da Série A...
 
@@ -60,9 +65,8 @@ Implementei processos de ETL automatizados utilizando comandos .BAT para extrair
 ## Aprendizados e Próximos Passos
 
 Durante esses projetos, aprendi a aplicar algoritmos de Machine Learning, explorar dados de maneira eficaz e desenvolver modelos preditivos. Meu próximo passo é...
-
+-->
 ## Contato
 
-- LinkedIn:[ [Seu Perfil](https://www.linkedin.com/in/seuperfil/)](https://www.linkedin.com/in/brunaccgomes/ )
-- E-mail:  brunacunha_ti@outlook.com 
+- LinkedIn: [Bruna da Cunha Christiano Gomes](https://www.linkedin.com/in/brunaccgomes/)
 
