@@ -1,8 +1,8 @@
 #### Portfólio de Ciência de Dados - Bruna Gomes
 # Hello!!
 
-Bem-vindo ao meu portfólio! 
-É possível analisar minhas habilidades consultando meus experimentos pessoais (link), meus projetos acadêmicos (link) e, então você pode verificar a forma como abstraí e pratiquei algumas habilidades pertinentes à ciência de dados. 
+Bem-vindo! 
+Aqui é possível analisar minhas habilidades consultando meus experimentos pessoais (link), meus projetos acadêmicos (link) e, então você pode verificar a forma como abstraí e pratiquei algumas habilidades pertinentes à ciência de dados. 
 <!--Sou a Bruna, uma profissional de TI com mais de 10 anos de experiência em análise de sistemas e atualmente buscando oportunidades na área de Ciência de Dados. -->
 Profissionalmente busco desafios que me forneçam mais “liberdade” analítica e científica na condução da implantação de soluções inteligentes, justificando minha decisão em mudar de carreira, de analista de sistemas para cientista de dados.
 
