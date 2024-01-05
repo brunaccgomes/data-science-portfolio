@@ -1,4 +1,4 @@
-#### Portfólio de Ciência de Dados - Bruna Gomes
+#### Ciência de Dados - Bruna Gomes
 # Hello!!
 
 Bem-vindo! 
