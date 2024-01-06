@@ -1,5 +1,5 @@
 #### Ciência de Dados - Bruna Gomes
-# Hello!!
+# Olá!!
 
 Bem-vindo! 
 Aqui é possível analisar minhas habilidades consultando meus [experimentos](experimentos/README.md), meus [projetos acadêmicos](academicos/README.md) e, então você pode verificar a forma como abstraio e pratico algumas habilidades pertinentes à ciência de dados. 
