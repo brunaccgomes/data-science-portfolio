@@ -4,10 +4,12 @@
 
 Este é um estudo sobre o peso de recém-nascidos no momento do parto, com foco específico no estado de São Paulo, Brasil, durante o ano de 2021.
 Nesse experimento foram utilizados os dados de peso do recém-nascido, idade gestacional e idade da gestante, estes relacionados ao momento do parto, além do número de consultas efetuadas pela gestante durante o pré-natal.
+O peso do recém-nascido no momento do parto é o alvo do experimento.
+Um recém-nascido com baixo peso possuirá menos de 2500 gramas e aqui serão analisadas as condições para este resultado. 
 
 ### Objetivo do Estudo
 
-Identificar padrões e relações destes atributos, utilizando técnicas avançadas de análise. Para alcançar esse objetivo, foram empregados métodos de aprendizado de máquina não supervisionado, incluindo abordagens preditivas de classificação e regressão.
+Identificar padrões e relações dos atributos, utilizando técnicas avançadas de análise. Para alcançar esse objetivo, foram empregados métodos de aprendizado de máquina não supervisionado, incluindo abordagens preditivas de classificação e regressão.
 
 ### Ferramentas Técnicas
 
