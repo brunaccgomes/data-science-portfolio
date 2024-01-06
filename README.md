@@ -2,7 +2,7 @@
 # Olá!!
 
 Bem-vindo! 
-Aqui é possível analisar minhas habilidades consultando meus [experimentos](experimentos/README.md), meus [projetos acadêmicos](academicos/README.md) e, então você pode verificar a forma como abstraio e pratico algumas habilidades pertinentes à ciência de dados. 
+Aqui é possível analisar minhas habilidades consultando meus [experimentos](experimentos/README.md) e meus [projetos acadêmicos](academicos/README.md) e, então, você pode verificar a forma como abstraio e pratico algumas habilidades pertinentes à ciência de dados. 
 
 Profissionalmente busco desafios que me forneçam mais “liberdade” analítica e científica na condução da implantação de soluções inteligentes, justificando minha decisão em mudar de carreira, de analista de sistemas para cientista de dados.
 
