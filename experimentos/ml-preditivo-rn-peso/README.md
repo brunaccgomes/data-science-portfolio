@@ -1,13 +1,18 @@
 # Data Mining no Estudo do Peso de Recém-Nascidos em São Paulo (2021)
 
-## Introdução
+## 1. Introdução
 
-Este notebook foi desenvolvido no ambiente Google Colab utilizando a linguagem de programação Python. Os principais pacotes utilizados incluem numpy, pandas, scikit-learn, entre outros. O objetivo principal deste estudo é analisar dados relacionados ao peso de recém-nascidos no momento do parto, com foco específico no estado de São Paulo, Brasil, durante o ano de 2021.
+Explorar dados relacionados ao peso de recém-nascidos no momento do parto, no estado de São Paulo, Brasil, durante o ano de 2021. Compreender a influência de diferentes fatores (atributos) no peso dos recém-nascidos.
 
 ### Objetivo do Estudo
-Busco verificar a influência de determinados fatores (atributos) no peso dos recém-nascidos. Para atingir esse objetivo, pretendo empregar técnicas de aprendizado de máquina não supervisionado, incluindo métodos preditivos de classificação e regressão.
 
-## Contexto
+Identificar padrões e relações nos dados, utilizando técnicas avançadas de análise. Para alcançar esse objetivo, empregar métodos de aprendizado de máquina não supervisionado, incluindo abordagens preditivas de classificação e regressão.
+
+### Ferramentas Técnicas
+
+Desenvolver este estudo no ambiente Google Colab, utilizando a linguagem de programação Python. Utilizar pacotes como numpy, pandas e scikit-learn, essenciais para a manipulação de dados e implementação dos modelos preditivos.
+
+## 2. Contexto
 
 Este estudo se enquadra no contexto mais amplo de Data Mining, que envolve a descoberta de padrões, tendências e informações valiosas em grandes conjuntos de dados. Utilizando métodos preditivos, buscamos explorar e compreender os dados relacionados ao peso de recém-nascidos no estado de São Paulo durante o ano de 2021.
 
@@ -31,7 +36,7 @@ Este estudo se enquadra no contexto mais amplo de Data Mining, que envolve a des
 6. **Análise de Importância dos Atributos:**
    - Métodos de análise de importância de atributos serão aplicados para destacar quais variáveis são mais relevantes na explicação das variações no peso dos recém-nascidos.
 
-## Dataset
+## 3. Dataset
 - Os dados usados nesse estudo, foram extraídos através da plataforma DATASUS https://datasus.saude.gov.br/transferencia-de-arquivos/.
 - O formato do arquivo extraído é .dbc e convertido para .csv.
    - O processo de conversão não é foco desse experimento, logo essa transformação não será contemplada aqui.
