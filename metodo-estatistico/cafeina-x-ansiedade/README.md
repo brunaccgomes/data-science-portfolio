@@ -10,3 +10,5 @@
 ### 4. **Análise e Interpretação dos Dados:**
 - Verificar a correlação entre o consumo de cafeína e o nível de ansiedade.
 - Analisar se há um aumento significativo na ansiedade com o aumento do consumo de cafeína.
+
+<img src="img/1_MapaMental.png">
