@@ -1,4 +1,6 @@
 # Estudo do Efeito do Consumo de Cafeína na Ansiedade
+<img src="img/1_MapaMental.png">
+
 ### 1. **Problema/Situação:**
 - Efeito do Consumo de Cafeína na Ansiedade
 ### 2. **Variáveis:**
@@ -11,4 +13,3 @@
 - Verificar a correlação entre o consumo de cafeína e o nível de ansiedade.
 - Analisar se há um aumento significativo na ansiedade com o aumento do consumo de cafeína.
 
-<img src="img/1_MapaMental.png">
