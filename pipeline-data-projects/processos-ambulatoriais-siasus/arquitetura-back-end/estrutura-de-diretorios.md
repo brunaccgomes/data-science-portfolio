@@ -1,6 +1,6 @@
 #### Arquitetura do Sistema Back-End
 
-## Estrutura de Diretórios
+## Visão da Estrutura de Diretórios
 
 A estrutura de diretórios para o projeto deve ser organizada da seguinte forma:
 
@@ -31,4 +31,55 @@ project_root/                  >> Diretório raiz do projeto.
 │
 ├── requirements.txt                        >> Lista de dependências do projeto.
 ├── README.md                               >> Arquivo de documentação do projeto.
-└── .gitignore                              >> Arquivo para especificar quais arquivos/directórios devem ser ignorados pelo Git.                                        
+└── .gitignore                              >> Arquivo para especificar quais arquivos/directórios devem ser ignorados pelo Git.
+```
+## Criando Estrutura de Diretórios no VS Code
+- **Diretório Principal:** D:\VisualStudioCode\pa-siasus
+- Via Terminal PorwerShell
+
+**Antes de criar a estrutura de diretórios e os arquivos do projeto, é uma prática recomendada criar um ambiente virtual para isolar as dependências do projeto.**
+
+### 1. Criar o ambiente virtual :
+- #### Navegar até o diretório onde deseja criar o ambiente virtual
+  *PS D:\VisualStudioCode\pa-siasus>* ```cd D:\VisualStudioCode\pa-siasus```
+- #### Criar o ambiente virtual
+  *PS D:\VisualStudioCode\pa-siasus>* ```python -m venv venv```
+
+### 2. Ativar o ambiente virtual:
+- #### Ativar o ambiente virtual no Windows
+  *PS D:\VisualStudioCode\pa-siasus>* ```.\venv\Scripts\Activate.ps1```
+
+### 3. Criar a estrutura de diretórios e arquivos do projeto:
+- #### Criar diretórios
+```
+  mkdir src
+  mkdir src/data_processing
+  mkdir src/utils
+  mkdir src/tests
+  mkdir data
+  mkdir data/input
+  mkdir data/output
+  mkdir data/reference
+```
+- #### Criar arquivos dentro de src
+```
+  New-Item -ItemType file .\src\__init__.py
+  New-Item -ItemType file .\src\main.py
+  New-Item -ItemType file .\src\config.py
+  New-Item -ItemType file .\src\file_handler.py
+  New-Item -ItemType file .\src\column_comparator.py
+  New-Item -ItemType file .\src\utils.py
+```
+- #### Criar arquivos dentro de tests
+```
+  New-Item -ItemType file .\src\tests\__init__.py
+  New-Item -ItemType file .\src\tests\test_file_handler.py
+  New-Item -ItemType file .\src\tests\test_column_comparator.py
+  New-Item -ItemType file .\src\tests\test_utils.py
+```
+- #### Criar arquivos adicionais
+```
+New-Item -ItemType file .\requirements.txt
+New-Item -ItemType file .\README.md
+```
+
